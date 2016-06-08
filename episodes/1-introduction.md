@@ -1,6 +1,6 @@
 # Episode 1 - Introduction
 
-## Recorded: 2016-06-08 ACST
+## Recorded: 2016-06-08 UTC
 
 * [Hostworks](https://www.hostworks.com.au)
 * [The Foundry](http://www.thefoundry.com.au)
