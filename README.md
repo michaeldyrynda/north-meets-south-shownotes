@@ -4,4 +4,6 @@ Repository to track show notes for each recorded episode.
 
 All dates in UTC.
 
-* [1 - Introduction](1-introduction.md) - Recorded 2016-06-08, Released 2016-06-13
+|  #  | Title | Recorded | Released |
+|-----|-------|----------|----------|
+| [001](http://www.northmeetssouth.audio/1) | [Introduction](episodes/1-introduction.md) | 2016-06-08 | 2016-06-13 | 
