@@ -1,4 +1,4 @@
-# Episode 3 - The Wrong Abstraction, Valet, and MailThief
+# Episode 3 - Wrong Abstractions, Valet, and MailThief
 
 ## Recorded: 2016-06-26 UTC
 
