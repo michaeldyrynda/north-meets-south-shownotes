@@ -6,7 +6,7 @@ In this episode, Jacob and Michael discuss Sandi Metz's article "The Wrong Abstr
 
 **Show Links**
 
-* [The Wrong Abstraction](http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+* [The Wrong Abstraction](http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction) by [Sandi Metz](http://twitter.com/sandimetz)
 * [Practical Object Oriented Design in Ruby (POODR)](http://www.sandimetz.com/products)
 * [DRY - Don't Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 * [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
