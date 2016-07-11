@@ -23,3 +23,4 @@ This episode sees Jacob and Michael interview their first guest, co-host of the 
 * [Dads in Development](http://www.dadsindev.com) with [Andrew Del Prete](https://twitter.com/andrewdelprete)
 * [Jigsaw](http://jigsaw.tighten.co) by [Tighten Co.](https://tighten.co)
 * [PushSilver](https://pushsilver.com) - sign up for free and get three free invoices per month
+* [David Hemphill vs. RJ Couch - Cage of Honor 39](https://www.youtube.com/watch?v=398m8RQMHzE)
