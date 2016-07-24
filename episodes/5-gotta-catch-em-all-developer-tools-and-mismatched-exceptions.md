@@ -28,6 +28,6 @@ In this episode, Jacob and Michael talk about the latest craze Pokemon go, the t
 * [z](https://github.com/rupa/z)
 * [Wunderlist Conference](https://twitter.com/JackFruh/status/755963135056424962)
 * [Todoist](https://todoist.com)
-* [Better handling for TokenMismatchException](https://dyrynda.com.au/better-handling-for-tokenmismatchexception)
+* [Better handling for TokenMismatchException](https://dyrynda.com.au/better-handling-of-tokenmismatchexception-in-laravel)
 * [Rollbar](https://rollbar.com)
 * [Sentry](https://getsentry.com)
