@@ -1,12 +1,10 @@
-# Episode 5 - Gotta catch 'em all, developer tools, and mismatched exceptions
-
-## Recorded: 2016-07-22
-
 In this episode, Jacob and Michael talk about the latest craze Pokemon go, the tools they use for their daily development and productivity workflows, and handling token mismatch exceptions in the Laravel framework.
 
 **Show Links**
 
 * Pokemon Go - [iTunes](https://itunes.apple.com/au/app/pokemon-go/id1094591345?mt=8) / [Google Play](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en)
+* [Detective Pikachu](http://www.cessnockadvertiser.com.au/story/4049151/pokemon-live-action-movie-detective-pikachu-confirmed-by-legendary-pictures/?cs=36) live action Pokemon film
+* [Tools of the Trade: Software we love (or tolerate) at Tighten](https://blog.tighten.co/tools-of-the-trade-software-we-love-or-tolerate-at-tighten)
 * [vim](http://www.vim.org)
 * [Sublime Text](https://www.sublimetext.com)
 * [vimgifs](https://twitter.com/vimgifs) on Twitter
