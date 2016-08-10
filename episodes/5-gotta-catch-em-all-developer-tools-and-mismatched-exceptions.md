@@ -1,3 +1,7 @@
+# Episode 5 - Gotta catch 'em all, developer tools, and mismatched exceptions
+
+## Recorded: 2016-07-22
+
 In this episode, Jacob and Michael talk about the latest craze Pokemon go, the tools they use for their daily development and productivity workflows, and handling token mismatch exceptions in the Laravel framework.
 
 **Show Links**
