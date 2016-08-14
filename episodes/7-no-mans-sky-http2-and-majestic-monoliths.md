@@ -7,6 +7,7 @@ In this episode, Jacob and Michael talk about the recently released No Man's Sky
 **Show Links**
 
 * [No Man's Sky](http://www.no-mans-sky.com)
+* [How Big Is No Man's Sky?](https://www.facebook.com/polygon/videos/1241235675889058)
 * [Eploring the 2^64 planets of No Man's Sky](https://blog.eu.playstation.com/2014/08/26/exploring-18446744073709551616-planets-mans-sky) - a 64-bit integer may actually be [2^63 - 1, not 2^64](https://en.wikipedia.org/wiki/9223372036854775807)
 * [Ben Ramsey - Long Live HTTP/2 from Laracon US](https://streamacon.com/video/laracon-us/ben-ramsey-long-live-http2)
 * [Tom Schlick](https://twitter.com/tomschlick) - [Laravel HTTP/2 Server Push middleware](https://github.com/tomschlick/laravel-http2-server-push)
