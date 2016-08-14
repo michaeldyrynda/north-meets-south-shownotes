@@ -19,5 +19,7 @@ In this episode, Jacob and Michael talk about the recently released No Man's Sky
  * [Jacob](https://github.com/JacobBennett/pjax)
 * [MailThief](https://github.com/tightenco/mailthief)
 * [Mailables in Laravel 5.3](https://laravel.com/docs/master/mail)
+* [DHH](https://twitter.com/dhh) on [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith-29166d022228#.aju7guvg4)
+* [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers) from an [interview on Full Stack Radio](http://www.fullstackradio.com/32)
 * [Service-Oriented Architecture](http://www.slideshare.net/SamanthaGeitz1/serviceoriented-architecture-62986976) at Laracon US 2015 by [Samantha Geitz](https://twitter.com/SamanthaGeitz)
  * [Service Oriented Architecture and Microservices](https://www.phproundtable.com/episode/service-oriented-architecture-and-microservices) on PHP Round Table
