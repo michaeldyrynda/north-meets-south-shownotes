@@ -13,3 +13,4 @@ All dates in UTC.
 | [005](http://www.northmeetssouth.audio/5) | [Gotta catch 'em all, developer tools, and mismatched exceptions](episodes/5-gotta-catch-em-all-developer-tools-and-mismatched-exceptions.md) | 2016-07-22 | 2016-07-26 |
 | [006](http://www.northmeetssouth.audio/6) | [Post-Laracon Crash](episodes/6-post-laracon-crash.md) | 2016-08-05 | 2016-08-11 |
 | [007](http://www.northmeetssouth.audio/7) | [No Man's Sky, HTTP/2, and Majestic Monoliths](episodes/7-no-mans-sky-http2-and-majestic-monoliths.md) | 2016-08-12 | 2016-08-17 |
+| [009](http://www.northmeetssouth.audio/9) | [Post-Hiatus Catchups, Migrating to Forge and Envoyer, and Certification](episodes/post-hiatus-catchups-migrating-to-forge-and-envoyer-and-certification.md) | 2016-09-09 | 2016-09-11 |
