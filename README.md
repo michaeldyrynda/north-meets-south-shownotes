@@ -16,3 +16,4 @@ All dates in UTC.
 | [009](http://www.northmeetssouth.audio/9) | [Post-Hiatus Catchups, Migrating to Forge and Envoyer, and Certification](episodes/9-post-hiatus-catchups-migrating-to-forge-and-envoyer-and-certification.md) | 2016-09-09 | 2016-09-11 |
 | [010](http://www.northmeetssouth.audio/10) | [Jake and Michael's Introduce Adam Wathan in under an hour](episodes/10-jake-and-michaels-introduce-adam-wathan-in-under-an-hour.md) | 2016-09-15 | 2016-09-18 |
 | [011](http://www.northmeetssouth.audio/11) | [Meetups, the Universe, and master plans](episodes/11-meetups-the-universe-and-master-plans.md) | 2016-09-24 | 2016-09-27 |
+| [012](http://www.northmeetssouth.audio/12) | [Laravel and Forge improvements, Yarn, and Hacktoberfest](episodes/12-laravel-and-forge-improvements-yarn-and-hacktoberfest.md) | 2016-10-14 | 2016-10-17 |
