@@ -15,5 +15,6 @@ Jake and Michael return after a short break and talk about improvements to Larav
  * [Custom VPS Load Balancers](https://twitter.com/laravelphp/status/781507332932980736)
  * [GitLab Support](https://twitter.com/laravelphp/status/786212659959967744)
 * [PHPRFCBot](https://twitter.com/PHPRFCBot)
+* [IETF RFCBot](https://twitter.com/rfcbot) by [@bradleyfalzon](https://twitter.com/bradleyfalzon)
 * [Yarn](https://code.facebook.com/posts/1840075619545360)
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com)
