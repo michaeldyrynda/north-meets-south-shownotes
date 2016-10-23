@@ -17,3 +17,4 @@ All dates in UTC.
 | [010](http://www.northmeetssouth.audio/10) | [Jake and Michael's Introduce Adam Wathan in under an hour](episodes/10-jake-and-michaels-introduce-adam-wathan-in-under-an-hour.md) | 2016-09-15 | 2016-09-18 |
 | [011](http://www.northmeetssouth.audio/11) | [Meetups, the Universe, and master plans](episodes/11-meetups-the-universe-and-master-plans.md) | 2016-09-24 | 2016-09-27 |
 | [012](http://www.northmeetssouth.audio/12) | [Laravel and Forge improvements, Yarn, and Hacktoberfest](episodes/12-laravel-and-forge-improvements-yarn-and-hacktoberfest.md) | 2016-10-14 | 2016-10-17 |
+| [013](http://www.northmeetssouth.audio/13) | [Denials of Service, MacBooks, and reviewing other people's code](episodes/13-denials-of-service-macbooks-and-reviewing-other-peoples-code.md) | 2016-10-22 | 2016-10-24 |
