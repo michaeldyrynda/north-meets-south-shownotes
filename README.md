@@ -18,3 +18,4 @@ All dates in UTC.
 | [011](http://www.northmeetssouth.audio/11) | [Meetups, the Universe, and master plans](episodes/11-meetups-the-universe-and-master-plans.md) | 2016-09-24 | 2016-09-27 |
 | [012](http://www.northmeetssouth.audio/12) | [Laravel and Forge improvements, Yarn, and Hacktoberfest](episodes/12-laravel-and-forge-improvements-yarn-and-hacktoberfest.md) | 2016-10-14 | 2016-10-17 |
 | [013](http://www.northmeetssouth.audio/13) | [Denials of Service, MacBooks, and reviewing other people's code](episodes/13-denials-of-service-macbooks-and-reviewing-other-peoples-code.md) | 2016-10-22 | 2016-10-24 |
+| [014](http://www.northmeetssouth.audio/14) | [Up and Running with Matt Stauffer](episodes/14-up-and-running-with-matt-stauffer.md) | 2016-10-29 | 2016-10-29 |
