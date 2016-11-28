@@ -19,3 +19,4 @@ All dates in UTC.
 | [012](http://www.northmeetssouth.audio/12) | [Laravel and Forge improvements, Yarn, and Hacktoberfest](episodes/12-laravel-and-forge-improvements-yarn-and-hacktoberfest.md) | 2016-10-14 | 2016-10-17 |
 | [013](http://www.northmeetssouth.audio/13) | [Denials of Service, MacBooks, and reviewing other people's code](episodes/13-denials-of-service-macbooks-and-reviewing-other-peoples-code.md) | 2016-10-22 | 2016-10-24 |
 | [014](http://www.northmeetssouth.audio/14) | [Up and Running with Matt Stauffer](episodes/14-up-and-running-with-matt-stauffer.md) | 2016-10-29 | 2016-10-29 |
+| [015](http://www.northmeetssouth.audio/15) | [Giving thanks, verifying max post size, and Vue & ES6](episodes/15-giving-thanks-verifying-max-post-size-and-vue-and-es6.md) | 2016-11-26 | 2016-11-28 |
