@@ -21,3 +21,4 @@ All dates in UTC.
 | [014](http://www.northmeetssouth.audio/14) | [Up and Running with Matt Stauffer](episodes/14-up-and-running-with-matt-stauffer.md) | 2016-10-29 | 2016-10-29 |
 | [015](http://www.northmeetssouth.audio/15) | [Giving thanks, verifying max post size, and Vue & ES6](episodes/15-giving-thanks-verifying-max-post-size-and-vue-and-es6.md) | 2016-11-26 | 2016-11-28 |
 | [016](http://www.northmeetssouth.audio/16) | [PHP 7.1, contributing to Open Source for Christmas, and posting on Medium as a developer](episodes/16-php71-contributing-to-open-source-for-christmas-and-posting-on-medium-as-a-developer.md) | 2016-12-03 | 2016-12-05 |
+| [017](http://www.northmeetssouth.audio/17) | [Mince pies, Laravel 5.4 updates, and Vue server-side rendering](episodes/17-mince-pies-laravel-54-updates-and-vue-server-side-rendering.md) | 2016-12-10 | 2016-12-13 |
