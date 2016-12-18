@@ -4,6 +4,8 @@
 
 Michael and Jake catch up with the hosts of our sister Dads in Dev podcast David Hemphill to round out the year with talk of Christmas, structuring single page applications, JavaScript frontends with client-sidse validation, and private packagist.
 
+If you want to skip the Christmas talk, technical talk begins at ~31:50😊
+
 **Show Links**
 
 * *Christmas Wishlists*
