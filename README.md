@@ -23,3 +23,4 @@ All dates in UTC.
 | [016](http://www.northmeetssouth.audio/16) | [PHP 7.1, contributing to Open Source for Christmas, and posting on Medium as a developer](episodes/16-php71-contributing-to-open-source-for-christmas-and-posting-on-medium-as-a-developer.md) | 2016-12-03 | 2016-12-05 |
 | [017](http://www.northmeetssouth.audio/17) | [Mince pies, Laravel 5.4 updates, and Vue server-side rendering](episodes/17-mince-pies-laravel-54-updates-and-vue-server-side-rendering.md) | 2016-12-10 | 2016-12-13 |
 | [018](http://www.northmeetssouth.audio/18) | [The Inaugural North Meets South Meets Dads In Dev Christmas Extravaganza Web Podcast](episodes/18-the-inaugural-north-meets-south-meets-dads-in-dev-christmas-extravaganza-web-podcast.md) | 2016-12-16 | 2016-12-22 |
+| [019](http://www.northmeetssouth.audio/19) | [Happy New Year](episodes/19-happy-new-year.md) | 2016-12-31 | 2016-12-31 |
