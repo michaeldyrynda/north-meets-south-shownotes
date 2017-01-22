@@ -24,3 +24,4 @@ All dates in UTC.
 | [017](http://www.northmeetssouth.audio/17) | [Mince pies, Laravel 5.4 updates, and Vue server-side rendering](episodes/17-mince-pies-laravel-54-updates-and-vue-server-side-rendering.md) | 2016-12-10 | 2016-12-13 |
 | [018](http://www.northmeetssouth.audio/18) | [The Inaugural North Meets South Meets Dads In Dev Christmas Extravaganza Web Podcast](episodes/18-the-inaugural-north-meets-south-meets-dads-in-dev-christmas-extravaganza-web-podcast.md) | 2016-12-16 | 2016-12-22 |
 | [019](http://www.northmeetssouth.audio/19) | [Happy New Year](episodes/19-happy-new-year.md) | 2016-12-31 | 2016-12-31 |
+| [020](http://www.northmeetssouth.audio/20) | [Screencasting, Markdown to Medium, and Google Cloud Storage](episodes/20-screencasting-markdown-to-medium-and-google-cloud-storage.md) | 2017-01-21 | 2017-01-23 |
