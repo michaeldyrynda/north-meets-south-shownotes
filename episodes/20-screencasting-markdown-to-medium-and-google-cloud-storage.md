@@ -15,4 +15,3 @@ Michael and Jake return with their slightly tinkered format, where they focus on
 * [Bootstrap 4 spacing utilities](http://v4-alpha.getbootstrap.com/utilities/spacing/) via [Till Krüss](https://twitter.com/tillkruss)
 * [SameTime.co - Group text reminders](https://sametime.co/)
 * [Laravel Up and Running](https://laravelupandrunning.com/)
-
